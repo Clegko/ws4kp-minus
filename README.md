@@ -17,7 +17,7 @@ This project is based on the work of [Mike Battaglia](https://github.com/vbguyny
 	* Countless photos and videos of WeatherStar 4000 forecasts used as references.
 
 ## Run Your WeatherStar
-There are a lot of CORS considerations and issues with api.weather.gov that are easiest to deal with by running a local server to see this in action (or use the live link above). You'll need Node.js >12.0 to run the local server.
+There are a lot of CORS considerations and issues with api.weather.gov that are easiest to deal with by running a local server to see this in action (or use the live link above). You'll need Node.js >14.0 to run the local server.
 
 ```
 git clone https://github.com/netbymatt/ws4kp.git
